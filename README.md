@@ -12,7 +12,7 @@
 </p> -->
 
 
-#### **Hey, Fred here!** *:wave:
+### **Hey, Fred here!** :wave:
 
 **About Me**
 
