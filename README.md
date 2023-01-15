@@ -16,7 +16,7 @@
 
 **About Me**
 
-- 💼 Frontend engineer at [奇志科技](http://meshkit.cn/company-profile)
+- 💼 Frontend engineer at [ONES](https://ones.cn/)
 - 📫 How to reach me: 📧 [Email](mailto:zhangyucheng1207@gmail.com)
 - 💬 Ask me about anything [here](https://github.com/yucheng1207/yucheng1207/issues)
 
